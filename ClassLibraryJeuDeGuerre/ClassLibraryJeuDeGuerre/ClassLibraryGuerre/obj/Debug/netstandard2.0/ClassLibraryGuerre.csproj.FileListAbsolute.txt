@@ -1,0 +1,9 @@
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ClassLibraryGuerre\bin\Debug\netstandard2.0\ClassLibraryGuerre.deps.json
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ClassLibraryGuerre\bin\Debug\netstandard2.0\ClassLibraryGuerre.dll
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ClassLibraryGuerre\bin\Debug\netstandard2.0\ClassLibraryGuerre.pdb
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ClassLibraryGuerre\obj\Debug\netstandard2.0\ClassLibraryGuerre.csprojAssemblyReference.cache
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ClassLibraryGuerre\obj\Debug\netstandard2.0\ClassLibraryGuerre.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ClassLibraryGuerre\obj\Debug\netstandard2.0\ClassLibraryGuerre.AssemblyInfoInputs.cache
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ClassLibraryGuerre\obj\Debug\netstandard2.0\ClassLibraryGuerre.AssemblyInfo.cs
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ClassLibraryGuerre\obj\Debug\netstandard2.0\ClassLibraryGuerre.dll
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ClassLibraryGuerre\obj\Debug\netstandard2.0\ClassLibraryGuerre.pdb

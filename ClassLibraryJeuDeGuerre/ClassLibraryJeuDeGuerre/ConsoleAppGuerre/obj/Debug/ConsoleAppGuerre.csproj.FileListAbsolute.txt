@@ -1,0 +1,10 @@
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ConsoleAppGuerre\bin\Debug\ConsoleAppGuerre.exe.config
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ConsoleAppGuerre\bin\Debug\ConsoleAppGuerre.exe
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ConsoleAppGuerre\bin\Debug\ConsoleAppGuerre.pdb
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ConsoleAppGuerre\bin\Debug\ClassLibraryGuerre.dll
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ConsoleAppGuerre\bin\Debug\ClassLibraryGuerre.pdb
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ConsoleAppGuerre\obj\Debug\ConsoleAppGuerre.csprojAssemblyReference.cache
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ConsoleAppGuerre\obj\Debug\ConsoleAppGuerre.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ConsoleAppGuerre\obj\Debug\ConsoleAppGuerre.csproj.CopyComplete
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ConsoleAppGuerre\obj\Debug\ConsoleAppGuerre.exe
+C:\Users\Patrascu\source\repos\ClassLibraryJeuDeGuerre\ConsoleAppGuerre\obj\Debug\ConsoleAppGuerre.pdb
